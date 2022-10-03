@@ -4,12 +4,16 @@ Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Compani
 Team ID : PNT2022TMID38414
 
 Team Members:
+
 Team Lead : LOGESH E
+
 Team Member 1 : DEEPAK P
+
 Team Member 2 : NAGARAJ V
+
 Team Member 3 : KISHOREKUMAR B
 
-https://user-images.githubusercontent.com/89291527/192917309-b1f4bb53-cdc4-4cf2-98fb-2b88c8e5c43f.gif
+
 
 
 Description :
