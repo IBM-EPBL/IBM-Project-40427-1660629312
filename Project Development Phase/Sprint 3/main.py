@@ -41,8 +41,8 @@ def detect(frame, model1, f):
 client = Cloudant.iam(
     '6803cce5-6842-45c7-b5e2-65a08f2d80fa-bluemix', 'reiQA6VSK7w6yG9lKhhn5Vt-lAWAzrrzZTV4ZnqNoaA_', connect=True)
 name = 'name'
-email = 'elogesh226@gmail.com'
-password = '01082002@'
+email = 'a@b.c'
+password = '123'
 
 user_database = client.create_database('user_database')
 user_image_database = client.create_database('user_image_database')
